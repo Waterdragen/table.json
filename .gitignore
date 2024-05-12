@@ -1,0 +1,16 @@
+.idea/
+.vscode/
+
+./python/.idea/
+./python/.vscode/
+./python/__pycache__/
+
+./go/.idea/
+./go/.vscode/
+./go/*.exe
+./go/go.work
+
+./rust/.idea/
+./rust/.vscode/
+./rust/target/
+./rust/Cargo.lock
